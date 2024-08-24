@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_options">
+        <item>Sort by Name (A-Z)</item>
+        <item>Sort by Name (Z-A)</item>
+        <item>Sort by Quantity (Low to High)</item>
+        <item>Sort by Quantity (High to Low)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="minus">subtract</string>
+    <string name="plus">add</string>
+    <string name="settings">Settings</string>
+    <string name="inventory">Inventory</string>
+    <string name="Back_button">back button</string>
+</resources>
